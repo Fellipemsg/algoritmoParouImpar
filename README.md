@@ -1,0 +1,1 @@
+# algoritmoParouImpar.c
